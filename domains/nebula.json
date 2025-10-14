@@ -1,0 +1,15 @@
+{
+  "domain": "nebula.is-a.dev",
+  "owner": {
+    "email": "Smol.Hanako420@gmail.com"
+  },
+  "record": {
+    "A": ["91.64.183.79"],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "nebula.is-a.dev"
+      }
+    ]
+  }
+}
